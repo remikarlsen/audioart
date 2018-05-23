@@ -2,6 +2,10 @@
 
 **An experiment in audio-visualizing log data**
 
+## !IMPORTANT
+This is legacy. To run in Chrome, OSX:
+open -a Google\ Chrome --args --disable-web-security --user-data-dir
+
 ## Log data:
 * 366 days from 04.04.2016 to 04.04.2017
 * Data is normalized
